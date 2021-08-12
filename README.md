@@ -33,4 +33,4 @@ Linkedin: https://www.linkedin.com/in/matheus-pereira-9828586b/
 - NodeJS
 
 Em 2022:
-- Iniciar minha pós em Engenharia do Software
+- Iniciar minha pós-graduação em Engenharia do Software
