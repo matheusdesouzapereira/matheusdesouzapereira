@@ -5,10 +5,10 @@ Linkedin: https://www.linkedin.com/in/matheus-pereira-9828586b/
 
 # Experiências:
 - Desenvolvimento Front-End;
-- Criação de Design e identidade visual
-- Designer Gráfico e Web
+- Criação de Artes e identidade visual;
+- Designer Gráfico e Web;
 - Facilidade em lecionar conteúdos e treinamentos web e presencial;
-- Certificação Microsoft Office Specialist
+- Certificação Microsoft Office Specialist em Excel e Word.
 
 # Conhecimentos:
 - HTML
