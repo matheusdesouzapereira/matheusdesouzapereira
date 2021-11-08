@@ -28,9 +28,9 @@ Linkedin: https://www.linkedin.com/in/matheus-pereira-9828586b/
 # Estudando em 2021:
 - Javascript Avançado
 - React
-- Angular
 - PHP
-- NodeJS
+- Node
 
-Em 2022:
+Pretenções para 2022:
 - Iniciar minha pós-graduação em Engenharia do Software
+- Estudar JAVA | Spring
