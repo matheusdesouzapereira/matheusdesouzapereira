@@ -4,7 +4,7 @@
 Linkedin: https://www.linkedin.com/in/matheus-pereira-9828586b/
 
 # Experiências:
-- Desenvolvimento Front-End;
+- Desenvolvimento Front-End e Back-End;
 - Criação de Artes e identidade visual;
 - Designer Gráfico e Web;
 - Facilidade em lecionar conteúdos e treinamentos web e presencial;
@@ -14,9 +14,11 @@ Linkedin: https://www.linkedin.com/in/matheus-pereira-9828586b/
 - HTML
 - CSS
 - Javascript
+- Bootstrap
 - PHP
 - MySQL
 - Wordpress
+- Elementor (Plugin)
 - SEO | SMO
 - Photoshop
 - Illustrator
@@ -24,13 +26,15 @@ Linkedin: https://www.linkedin.com/in/matheus-pereira-9828586b/
 - Excel (Cerficado MOS)
 - Word (Cerficado MOS)
 - PowerPoint
+- Programas de escritório
 
-# Estudando em 2021:
-- Javascript Avançado
-- React
-- PHP
-- Node
+# Estudando em 2022:
+- Pós Graduação em Engenharia do Software
+- Vue.Js
+- PHP POO
+- Laravel
+- Metodologias Ágeis
+- Scrum
 
-Pretenções para 2022:
-- Iniciar minha pós-graduação em Engenharia do Software
-- Estudar JAVA | Spring
+Pretenções para 2023:
+- Estudar Infraestrutura e Devops
