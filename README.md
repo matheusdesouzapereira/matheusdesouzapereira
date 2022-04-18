@@ -1,5 +1,5 @@
 #Sobre
- - Sou um Desenvolvedor FullStack em constante aprendizado. Dedicado, autodidata e apaixonado por programação desde 2009 quando fiz minha primeira linha de código. Professor desde 2013 certificado pela Microsoft. Formado em Análise e Desenvolvimento de Sistemas. Cursando pós graduação em Engenharia do Software.
+ - Sou um Desenvolvedor FullStack em constante aprendizado. Dedicado, autodidata e apaixonado por programação desde 2009 quando fiz minha primeira linha de código. Professor desde 2013 certificado pela Microsoft. Formado em Análise e Desenvolvimento de Sistemas. Cursando pós graduação em Engenharia de Software.
 
 Linkedin: https://www.linkedin.com/in/matheus-pereira-9828586b/
 
