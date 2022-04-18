@@ -1,10 +1,11 @@
 #Sobre
- - Sou um desenvolvedor em constante aprendizado. Dedicado, autodidata e apaixonado por programação desde 2009 quando fiz minha primeira linha de código. Professor desde 2013 certificado pela Microsoft. Formado em Análise e Desenvolvimento de Sistemas.
+ - Sou um Desenvolvedor FullStack em constante aprendizado. Dedicado, autodidata e apaixonado por programação desde 2009 quando fiz minha primeira linha de código. Professor desde 2013 certificado pela Microsoft. Formado em Análise e Desenvolvimento de Sistemas. Cursando pós graduação em Engenharia do Software.
 
 Linkedin: https://www.linkedin.com/in/matheus-pereira-9828586b/
 
 # Experiências:
 - Desenvolvimento Front-End e Back-End;
+- Criação de sites, blogs e e-commerce WP;
 - Criação de Artes e identidade visual;
 - Designer Gráfico e Web;
 - Facilidade em lecionar conteúdos e treinamentos web e presencial;
@@ -14,8 +15,11 @@ Linkedin: https://www.linkedin.com/in/matheus-pereira-9828586b/
 - HTML
 - CSS
 - Javascript
+- Vue.Js
+- JQuery
 - Bootstrap
 - PHP
+- Laravel
 - MySQL
 - Wordpress
 - Elementor (Plugin)
@@ -29,12 +33,15 @@ Linkedin: https://www.linkedin.com/in/matheus-pereira-9828586b/
 - Programas de escritório
 
 # Estudando em 2022:
-- Pós Graduação em Engenharia do Software
+- Engenharia do Software
 - Vue.Js
-- PHP POO
+- JQuery
+- PHP
 - Laravel
 - Metodologias Ágeis
 - Scrum
+- Consumo de API's
 
-Pretenções para 2023:
+Pretenções para 2022/2023:
 - Estudar Infraestrutura e Devops
+- Mestrado
