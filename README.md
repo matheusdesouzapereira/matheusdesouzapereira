@@ -1,18 +1,18 @@
-Hi there wave I'm Matheus
+Hi there 👋🏽 I'm Matheus
 
-👨🏻‍  About Me
+🧔🏽‍♂️ About Me
 
  - Sou um Desenvolvedor FullStack em constante aprendizado. Dedicado, autodidata e apaixonado por programação desde 2009 quando fiz minha primeira linha de código. Professor desde 2013 certificado pela Microsoft. Formado em Análise e Desenvolvimento de Sistemas. Cursando pós graduação em Engenharia de Software.
 
 Linkedin: https://www.linkedin.com/in/matheus-pereira-9828586b/
 
 # Experiências:
-computer Desenvolvimento Front-End e Back-End;
-computer Criação de sites, blogs e e-commerce WP;
-- Criação de Artes e identidade visual;
-- Designer Gráfico e Web;
-- Facilidade em lecionar conteúdos e treinamentos web e presencial;
-- Certificação Microsoft Office Specialist em Excel e Word.
+💻 Desenvolvimento Front-End e Back-End;
+💻 Criação de sites, blogs e e-commerce WP;
+💻 Criação de Artes e identidade visual;
+💻 Designer Gráfico e Web;
+💻 Facilidade em lecionar conteúdos e treinamentos web e presencial;
+💻 Certificação Microsoft Office Specialist em Excel e Word.
 
 # Conhecimentos:
 - HTML
