@@ -27,10 +27,11 @@ Linkedin: https://www.linkedin.com/in/matheus-pereira-9828586b/
 - Photoshop
 - Illustrator
 - CorelDraw
+- Figma
+- Canva
 - Excel (Cerficado MOS)
 - Word (Cerficado MOS)
 - PowerPoint
-- Programas de escritório
 
 # Estudando em 2023:
 - Pós em Engenharia do Software
