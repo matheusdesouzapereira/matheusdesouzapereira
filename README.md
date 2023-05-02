@@ -32,16 +32,9 @@ Linkedin: https://www.linkedin.com/in/matheus-pereira-9828586b/
 - PowerPoint
 - Programas de escritório
 
-# Estudando em 2022:
-- Engenharia do Software
-- Vue.Js
-- JQuery
-- PHP
-- Laravel
-- Metodologias Ágeis
-- Scrum
-- Consumo de API's
-
-Pretenções para 2022/2023:
-- Estudar Infraestrutura e Devops
-- Mestrado
+# Estudando em 2023:
+- Pós em Engenharia do Software
+- TypeScript
+- React
+- Next
+- Node
