@@ -39,7 +39,7 @@ Linkedin: https://www.linkedin.com/in/matheus-pereira-9828586b/
 - Word (Cerficado MOS)
 - PowerPoint
 
-# Estudando em 2023:
+# Estudando em 2024:
 - Pós em Engenharia do Software
 - React
 - Product Design / UX/UI Designer
